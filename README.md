@@ -1,5 +1,5 @@
 _____________________________________________
-![maxresdefault](https://github.com/user-attachments/assets/daa576d5-1917-4e1a-bf65-31bd86f29949)
+![maxresdefault](https://github.com/user-attachments/assets/ce0a2a3d-0d8c-451a-ab1f-50de33f70bff)
 ______________________________________________
 # sneakfork
 sneakfork is able to change its process memory, registers and change its execution flow.
